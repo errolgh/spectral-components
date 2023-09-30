@@ -1,0 +1,23 @@
+{
+  "name": "@spectral/react-components",
+  "version": "1.0.0",
+  "description": "Spectral React Component Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/errolgh/spectral-components.git"
+  },
+  "author": "Keith Burgie & Errol Watson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/errolgh/spectral-components/issues"
+  },
+  "homepage": "https://github.com/errolgh/spectral-components#readme",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  }
+}
