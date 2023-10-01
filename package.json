@@ -1,7 +1,7 @@
 {
-  "name": "@spectral/react-components",
+  "name": "@spectral-labs/react-components",
   "version": "1.0.0",
-  "description": "Spectral React Component Library",
+  "description": "React Component Library",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,9 +15,5 @@
   "bugs": {
     "url": "https://github.com/errolgh/spectral-components/issues"
   },
-  "homepage": "https://github.com/errolgh/spectral-components#readme",
-  "publishConfig": {
-    "access": "public",
-    "registry": "https://registry.npmjs.org/"
-  }
+  "homepage": "https://github.com/errolgh/spectral-components#readme"
 }
